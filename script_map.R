@@ -51,7 +51,7 @@ map_path <- map +
   geom_path() + 
   theme_bw()
 
-mapath
+map_path
 
 # Creating the map with polygons (filling with Viridis palette)
 map_poly <- map +
