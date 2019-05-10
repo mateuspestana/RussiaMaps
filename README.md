@@ -18,5 +18,6 @@ I imported the geoJSON and corrected the problem of Negative Coordinates (which 
 
 ### Initial maps: 
 
-[Path](png/map_path.png)
-[Polygon](png/map_polygon.png)
+![Path](png/map_path.png)
+
+![Polygon](png/map_polygon.png)
